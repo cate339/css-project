@@ -1,18 +1,23 @@
 h1 {
-text-align: center;
-color:black;
+  text-align: center;
+  color: black;
 }
-h2, p {
-    text-align:center;
-    color: brown;
+
+/* this is a comment */
+h2,
+p {
+  text-align: center;
+  color: brown;
 }
+
 #par1 {
-    text-align: center;
-    color: red;
-    font-style: italic;
+  text-align: center;
+  color: red;
+  font-style: italic;
 }
+
 .right {
-    text-align: center;
-    color: blue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  text-align: center;
+  color: rgb(0, 255, 0);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
