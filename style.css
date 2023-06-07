@@ -2,6 +2,7 @@ h1 {
 text-align: center;
 color:black;
 }
+/*this is a comment*/
 h2, p {
     text-align:center;
     color: brown;
@@ -13,6 +14,6 @@ h2, p {
 }
 .right {
     text-align: center;
-    color: blue;
+    color: rgb(0, 255, 0);
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
 }
