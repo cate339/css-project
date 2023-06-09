@@ -26,7 +26,10 @@ p {
   height: 30%;
   width: 50%;
 }
-table, th, td {
+
+table,
+th,
+td {
   border: 1px solid;
 }
 
