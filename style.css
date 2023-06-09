@@ -27,6 +27,17 @@ p {
   width: 50%;
 }
 
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+table {
+  width: 30%;
+  margin: auto;
+}
+
 footer {
   background-color: black;
 }
