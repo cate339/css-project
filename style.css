@@ -21,3 +21,12 @@ p {
   color: rgb(0, 255, 0);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.bgImage {
+  height: 30%;
+  width: 50%;
+}
+
+footer {
+  background-color: black;
+}
