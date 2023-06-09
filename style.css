@@ -1,3 +1,6 @@
+body, html {
+  
+}
 h1 {
   text-align: center;
   color: black;
@@ -20,4 +23,13 @@ p {
   text-align: center;
   color: rgb(0, 255, 0);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bgImage{
+  height: 30%;
+  width: 50%;
+}
+
+footer {
+  background-color: black;
 }
