@@ -1,6 +1,3 @@
-body, html {
-  
-}
 h1 {
   text-align: center;
   color: black;
@@ -25,7 +22,7 @@ p {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.bgImage{
+.bgImage {
   height: 30%;
   width: 50%;
 }
