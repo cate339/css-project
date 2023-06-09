@@ -27,6 +27,12 @@ p {
   width: 50%;
 }
 
+input {
+  width: 30%;
+  padding: 10px 20px;
+  margin-left: 20px;
+  box-sizing: border-box;
+}
 footer {
   background-color: black;
 }
