@@ -30,9 +30,11 @@ p {
 input {
   width: 30%;
   padding: 10px 20px;
-  margin-left: 20px;
+  margin: 4px;
   box-sizing: border-box;
 }
+
+
 footer {
   background-color: black;
 }
